@@ -1,0 +1,53 @@
+.Face {
+    height:400px;
+    width:400px;
+    background-color: rgb(220, 207, 25);
+    position: absolute;
+    left: 400px;
+    top:80px;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px black;
+}
+
+.mouth {
+    height:80px;
+    width: 200px;
+    background-color:darkred;
+    border-radius: 0 0 50% 50%;
+    position: absolute;
+    top:320px;
+    left:500px;
+} 
+
+.left-eye,.right-eye {
+    height: 80px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+    position:absolute;
+    top:150px;
+    left:500px;
+}
+
+.right-eye {
+    left:650px;
+}
+
+.lali {
+    height: 100px;
+    width: 120px;
+    border: 8px dotted black;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    font-size: 20px;
+    position: absolute;
+    top: 400px;
+    left: 800px;
+}
+
+h2 {
+    font-family:Brush Script MT;
+    
+}
+
